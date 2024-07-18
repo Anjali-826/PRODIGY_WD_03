@@ -2,6 +2,7 @@
 PIT/JUN24/16002
 
 <h1>Tic-Tac-Toe Game</h1>
+![WhatsApp Image 2024-07-16 at 1 07 49 PM](https://github.com/user-attachments/assets/94ad3fd9-4b0c-4c85-9b46-960aa27a82be)
 
 The Tic-Tac-Toe Game is a classic two-player game where players take turns marking spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
